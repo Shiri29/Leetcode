@@ -17,6 +17,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
