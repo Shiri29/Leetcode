@@ -33,6 +33,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
