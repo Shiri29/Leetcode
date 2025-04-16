@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shiri29/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Shiri29/Leetcode/tree/master/0027-remove-element) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -38,10 +39,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shiri29/Leetcode/tree/master/0027-remove-element) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +57,8 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
+## Sorting
+|  |
+| ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 <!---LeetCode Topics End-->
