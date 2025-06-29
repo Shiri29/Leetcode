@@ -1,24 +1,23 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        backtrack(result, "", 0, 0, n);
-        return result;
+    public List<String> generateParenthesis(int n) 
+    {
+        List<String> res = new ArrayList<>();
+        backtrack(res,"",0,0,n);
+        return res;
     }
-    
-    private void backtrack(List<String> result, String current, int openCount, int closeCount, int n) {
-        if (openCount == n && closeCount == n) {
-            result.add(current);
+
+    static void backtrack(List<String> res,String current,int open,int close,int max)
+    {
+   
+        if(current.length()==2*max)
+        {
+            res.add(current);
             return;
         }
-        
-        if (openCount < n) {
-            backtrack(result, current + "(", openCount + 1, closeCount, n);
-        }
-        if (closeCount < openCount) {
-            backtrack(result, current + ")", openCount, closeCount + 1, n);
-        }
+
+        if(open<max) 
+            backtrack(res,current+"(",open+1,close,max);
+        if(close<open) 
+            backtrack(res,current+")",open,close+1,max);
     }
 }
