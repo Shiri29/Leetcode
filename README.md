@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Shiri29/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Shiri29/Leetcode/tree/master/0039-combination-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Shiri29/Leetcode/tree/master/0039-combination-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
