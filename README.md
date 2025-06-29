@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shiri29/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiri29/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shiri29/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shiri29/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Shiri29/Leetcode/tree/master/0027-remove-element) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shiri29/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shiri29/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shiri29/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Shiri29/Leetcode/tree/master/0027-remove-element) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Dynamic Programming
@@ -72,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shiri29/Leetcode/tree/master/0015-3sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Greedy
 |  |
