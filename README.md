@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shiri29/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shiri29/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -115,6 +116,7 @@
 | [0022-generate-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shiri29/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Shiri29/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
