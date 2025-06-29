@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Shiri29/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shiri29/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Shiri29/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiri29/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
