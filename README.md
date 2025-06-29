@@ -54,12 +54,14 @@
 | [0002-add-two-numbers](https://github.com/Shiri29/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shiri29/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 ## String
