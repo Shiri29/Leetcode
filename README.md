@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/Shiri29/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Shiri29/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Shiri29/Leetcode/tree/master/0053-maximum-subarray) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shiri29/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Shiri29/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -103,6 +105,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiri29/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Shiri29/Leetcode/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
