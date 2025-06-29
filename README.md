@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Shiri29/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Shiri29/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -23,6 +24,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shiri29/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
