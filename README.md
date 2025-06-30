@@ -31,6 +31,7 @@
 | [1127-last-stone-weight](https://github.com/Shiri29/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Shiri29/Leetcode/tree/master/1137-height-checker) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shiri29/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shiri29/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/Shiri29/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shiri29/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
