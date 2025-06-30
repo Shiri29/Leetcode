@@ -83,6 +83,7 @@
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shiri29/Leetcode/tree/master/0415-add-strings) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0075-sort-colors](https://github.com/Shiri29/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shiri29/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Shiri29/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shiri29/Leetcode/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Shiri29/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
