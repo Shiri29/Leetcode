@@ -29,6 +29,7 @@
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shiri29/Leetcode/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/Shiri29/Leetcode/tree/master/1137-height-checker) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1137-height-checker](https://github.com/Shiri29/Leetcode/tree/master/1137-height-checker) |
 ## Greedy
 |  |
 | ------- |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Shiri29/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
