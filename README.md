@@ -35,6 +35,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shiri29/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2159-two-out-of-three](https://github.com/Shiri29/Leetcode/tree/master/2159-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shiri29/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2159-two-out-of-three](https://github.com/Shiri29/Leetcode/tree/master/2159-two-out-of-three) |
 ## Matrix
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
+| [2159-two-out-of-three](https://github.com/Shiri29/Leetcode/tree/master/2159-two-out-of-three) |
 ## Depth-First Search
 |  |
 | ------- |
