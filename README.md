@@ -93,6 +93,7 @@
 | [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1078-remove-outermost-parentheses](https://github.com/Shiri29/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
+| [1078-remove-outermost-parentheses](https://github.com/Shiri29/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
