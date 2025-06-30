@@ -186,6 +186,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Shiri29/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/Shiri29/Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Shiri29/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/Shiri29/Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Shiri29/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/Shiri29/Leetcode/tree/master/0832-binary-tree-pruning) |
 ## String Matching
 |  |
 | ------- |
