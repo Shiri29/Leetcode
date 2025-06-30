@@ -30,6 +30,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shiri29/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Shiri29/Leetcode/tree/master/1137-height-checker) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Shiri29/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Shiri29/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Shiri29/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## String
 |  |
 | ------- |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Shiri29/Leetcode/tree/master/1137-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Shiri29/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
