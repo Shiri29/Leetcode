@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
+| [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@
 | [0415-add-strings](https://github.com/Shiri29/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Shiri29/Leetcode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0075-sort-colors](https://github.com/Shiri29/Leetcode/tree/master/0075-sort-colors) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
+| [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiri29/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Shiri29/Leetcode/tree/master/0053-maximum-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +174,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
+| [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -252,4 +257,12 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Shiri29/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
