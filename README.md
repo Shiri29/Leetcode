@@ -187,6 +187,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Shiri29/Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/Shiri29/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shiri29/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/Shiri29/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
 | ------- |
@@ -237,4 +239,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Shiri29/Leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
