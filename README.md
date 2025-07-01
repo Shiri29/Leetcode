@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/Shiri29/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Shiri29/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shiri29/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shiri29/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shiri29/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shiri29/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Shiri29/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0409-longest-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
@@ -100,6 +102,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shiri29/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shiri29/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shiri29/Leetcode/tree/master/0415-add-strings) |
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shiri29/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shiri29/Leetcode/tree/master/0075-sort-colors) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
