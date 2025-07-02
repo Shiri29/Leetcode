@@ -168,6 +168,7 @@
 | [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
+| [0397-integer-replacement](https://github.com/Shiri29/Leetcode/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/Shiri29/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shiri29/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Shiri29/Leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Shiri29/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -207,6 +209,7 @@
 | [0011-container-with-most-water](https://github.com/Shiri29/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Shiri29/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiri29/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/Shiri29/Leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
 ## Sliding Window
@@ -246,6 +249,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
+| [0397-integer-replacement](https://github.com/Shiri29/Leetcode/tree/master/0397-integer-replacement) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
 | [2159-two-out-of-three](https://github.com/Shiri29/Leetcode/tree/master/2159-two-out-of-three) |
 ## Depth-First Search
