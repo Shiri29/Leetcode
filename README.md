@@ -100,6 +100,7 @@
 | [0189-rotate-array](https://github.com/Shiri29/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shiri29/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shiri29/Leetcode/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shiri29/Leetcode/tree/master/0415-add-strings) |
@@ -152,6 +153,7 @@
 | [0053-maximum-subarray](https://github.com/Shiri29/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiri29/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Shiri29/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shiri29/Leetcode/tree/master/0518-coin-change-ii) |
@@ -251,6 +253,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Shiri29/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shiri29/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
