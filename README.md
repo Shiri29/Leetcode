@@ -28,6 +28,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shiri29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shiri29/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/Shiri29/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shiri29/Leetcode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -55,6 +56,7 @@
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shiri29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shiri29/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shiri29/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
