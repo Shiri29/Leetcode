@@ -178,6 +178,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shiri29/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -349,4 +350,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shiri29/Leetcode/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shiri29/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
