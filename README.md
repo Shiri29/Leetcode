@@ -51,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Shiri29/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Shiri29/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shiri29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
@@ -111,6 +112,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shiri29/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shiri29/Leetcode/tree/master/0415-add-strings) |
