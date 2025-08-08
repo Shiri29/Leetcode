@@ -125,6 +125,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shiri29/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Shiri29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shiri29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -152,6 +153,7 @@
 | [0027-remove-element](https://github.com/Shiri29/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shiri29/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Shiri29/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shiri29/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Shiri29/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shiri29/Leetcode/tree/master/0202-happy-number) |
