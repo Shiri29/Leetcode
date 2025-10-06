@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shiri29/Leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shiri29/Leetcode/tree/master/0189-rotate-array) |
@@ -267,6 +268,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
 | [0397-integer-replacement](https://github.com/Shiri29/Leetcode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shiri29/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
