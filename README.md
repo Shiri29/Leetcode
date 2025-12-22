@@ -78,6 +78,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Shiri29/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shiri29/Leetcode/tree/master/0415-add-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shiri29/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shiri29/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Shiri29/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Shiri29/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shiri29/Leetcode/tree/master/0189-rotate-array) |
@@ -131,6 +133,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shiri29/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Shiri29/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
