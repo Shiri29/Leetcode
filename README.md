@@ -135,6 +135,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Shiri29/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Shiri29/Leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Shiri29/Leetcode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Shiri29/Leetcode/tree/master/0383-ransom-note) |
