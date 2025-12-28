@@ -270,6 +270,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiri29/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Shiri29/Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Shiri29/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shiri29/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
@@ -301,6 +302,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/Shiri29/Leetcode/tree/master/0190-reverse-bits) |
 | [0397-integer-replacement](https://github.com/Shiri29/Leetcode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shiri29/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
