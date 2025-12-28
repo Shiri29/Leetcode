@@ -323,6 +323,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shiri29/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0565-array-nesting](https://github.com/Shiri29/Leetcode/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/Shiri29/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Shiri29/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Shiri29/Leetcode/tree/master/0832-binary-tree-pruning) |
@@ -355,6 +356,7 @@
 | [0226-invert-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shiri29/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Shiri29/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Shiri29/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Shiri29/Leetcode/tree/master/0832-binary-tree-pruning) |
@@ -400,6 +402,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Shiri29/Leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Shiri29/Leetcode/tree/master/0456-132-pattern) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Shiri29/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Shiri29/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Shiri29/Leetcode/tree/master/2128-reverse-prefix-of-word) |
