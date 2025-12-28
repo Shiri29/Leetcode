@@ -471,4 +471,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Shiri29/Leetcode/tree/master/0456-132-pattern) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Shiri29/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
