@@ -483,4 +483,5 @@
 | [0177-nth-highest-salary](https://github.com/Shiri29/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Shiri29/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Shiri29/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Shiri29/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
