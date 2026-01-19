@@ -170,6 +170,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Shiri29/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/Shiri29/Leetcode/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0551-student-attendance-record-i](https://github.com/Shiri29/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
