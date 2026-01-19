@@ -176,6 +176,7 @@
 | [0551-student-attendance-record-i](https://github.com/Shiri29/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shiri29/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Shiri29/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/Shiri29/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -206,6 +207,7 @@
 | [0481-magical-string](https://github.com/Shiri29/Leetcode/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Shiri29/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Shiri29/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
