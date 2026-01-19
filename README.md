@@ -135,6 +135,7 @@
 | [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shiri29/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shiri29/Leetcode/tree/master/0415-add-strings) |
@@ -314,6 +315,7 @@
 | [0029-divide-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Shiri29/Leetcode/tree/master/0190-reverse-bits) |
+| [0371-sum-of-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Shiri29/Leetcode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shiri29/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
