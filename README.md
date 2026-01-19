@@ -45,6 +45,7 @@
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/Shiri29/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
@@ -462,6 +463,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Shiri29/Leetcode/tree/master/0724-find-pivot-index) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shiri29/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Enumeration
 |  |
