@@ -44,6 +44,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shiri29/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
@@ -226,6 +227,7 @@
 | [0494-target-sum](https://github.com/Shiri29/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shiri29/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shiri29/Leetcode/tree/master/1013-fibonacci-number) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -492,4 +494,12 @@
 | [0183-customers-who-never-order](https://github.com/Shiri29/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Shiri29/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Shiri29/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
