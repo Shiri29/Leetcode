@@ -379,6 +379,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shiri29/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/Shiri29/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/Shiri29/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -395,6 +396,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shiri29/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/Shiri29/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/Shiri29/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## String Matching
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shiri29/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shiri29/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Shiri29/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Geometry
 |  |
