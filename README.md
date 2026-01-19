@@ -48,6 +48,7 @@
 | [0724-find-pivot-index](https://github.com/Shiri29/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Shiri29/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shiri29/Leetcode/tree/master/1127-last-stone-weight) |
@@ -209,6 +210,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Shiri29/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Shiri29/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0908-middle-of-the-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Shiri29/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
@@ -251,6 +253,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shiri29/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Shiri29/Leetcode/tree/master/0456-132-pattern) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Shiri29/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 ## Sorting
@@ -267,6 +270,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Shiri29/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Shiri29/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/Shiri29/Leetcode/tree/master/1137-height-checker) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -314,6 +318,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shiri29/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Shiri29/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Shiri29/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shiri29/Leetcode/tree/master/1127-last-stone-weight) |
 ## Merge Sort
