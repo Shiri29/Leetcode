@@ -126,6 +126,7 @@
 | [0143-reorder-list](https://github.com/Shiri29/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Shiri29/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Shiri29/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Shiri29/Leetcode/tree/master/0394-decode-string) |
@@ -142,6 +143,7 @@
 | [0189-rotate-array](https://github.com/Shiri29/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shiri29/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shiri29/Leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Shiri29/Leetcode/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
@@ -169,6 +171,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shiri29/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shiri29/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Shiri29/Leetcode/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/Shiri29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shiri29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Shiri29/Leetcode/tree/master/0394-decode-string) |
@@ -442,6 +445,7 @@
 | [0143-reorder-list](https://github.com/Shiri29/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shiri29/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shiri29/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/Shiri29/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Shiri29/Leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Shiri29/Leetcode/tree/master/0456-132-pattern) |
