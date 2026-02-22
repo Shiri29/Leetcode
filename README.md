@@ -36,6 +36,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shiri29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Shiri29/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shiri29/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shiri29/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Shiri29/Leetcode/tree/master/0456-132-pattern) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shiri29/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Shiri29/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shiri29/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Shiri29/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
