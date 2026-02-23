@@ -159,6 +159,7 @@
 | [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
+| [0365-water-and-jug-problem](https://github.com/Shiri29/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shiri29/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
@@ -387,6 +388,7 @@
 | [0200-number-of-islands](https://github.com/Shiri29/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Shiri29/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/Shiri29/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Shiri29/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/Shiri29/Leetcode/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shiri29/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -408,6 +410,7 @@
 | [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Shiri29/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/Shiri29/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shiri29/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
