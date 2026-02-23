@@ -201,6 +201,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Shiri29/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Shiri29/Leetcode/tree/master/0472-concatenated-words) |
 | [0481-magical-string](https://github.com/Shiri29/Leetcode/tree/master/0481-magical-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Shiri29/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0551-student-attendance-record-i](https://github.com/Shiri29/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shiri29/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
