@@ -160,6 +160,7 @@
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/Shiri29/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/Shiri29/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shiri29/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Shiri29/Leetcode/tree/master/0412-fizz-buzz) |
@@ -281,6 +282,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shiri29/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/Shiri29/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shiri29/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shiri29/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
