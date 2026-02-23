@@ -81,6 +81,7 @@
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shiri29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Shiri29/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/Shiri29/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shiri29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shiri29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0409-longest-palindrome) |
@@ -184,6 +185,7 @@
 | [0179-largest-number](https://github.com/Shiri29/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Shiri29/Leetcode/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/Shiri29/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shiri29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shiri29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Shiri29/Leetcode/tree/master/0394-decode-string) |
