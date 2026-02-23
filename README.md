@@ -48,6 +48,7 @@
 | [0506-relative-ranks](https://github.com/Shiri29/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Shiri29/Leetcode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/Shiri29/Leetcode/tree/master/0565-array-nesting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shiri29/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
@@ -288,6 +289,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shiri29/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Shiri29/Leetcode/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shiri29/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Shiri29/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
