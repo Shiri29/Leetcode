@@ -80,6 +80,7 @@
 | [0202-happy-number](https://github.com/Shiri29/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shiri29/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/Shiri29/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/Shiri29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shiri29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shiri29/Leetcode/tree/master/0409-longest-palindrome) |
@@ -153,6 +154,7 @@
 | [0202-happy-number](https://github.com/Shiri29/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shiri29/Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Shiri29/Leetcode/tree/master/0224-basic-calculator) |
+| [0264-ugly-number-ii](https://github.com/Shiri29/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Shiri29/Leetcode/tree/master/0326-power-of-three) |
@@ -247,6 +249,7 @@
 | [0118-pascals-triangle](https://github.com/Shiri29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiri29/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shiri29/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/Shiri29/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Shiri29/Leetcode/tree/master/0313-super-ugly-number) |
@@ -345,6 +348,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shiri29/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shiri29/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Shiri29/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shiri29/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shiri29/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Shiri29/Leetcode/tree/master/0451-sort-characters-by-frequency) |
