@@ -186,6 +186,7 @@
 | [0205-isomorphic-strings](https://github.com/Shiri29/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Shiri29/Leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Shiri29/Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Shiri29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shiri29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Shiri29/Leetcode/tree/master/0394-decode-string) |
@@ -343,6 +344,7 @@
 | [0040-combination-sum-ii](https://github.com/Shiri29/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shiri29/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shiri29/Leetcode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Shiri29/Leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Heap (Priority Queue)
@@ -403,6 +405,7 @@
 | [0200-number-of-islands](https://github.com/Shiri29/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Shiri29/Leetcode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Shiri29/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shiri29/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Shiri29/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
