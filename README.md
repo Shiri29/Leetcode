@@ -52,6 +52,7 @@
 | [0565-array-nesting](https://github.com/Shiri29/Leetcode/tree/master/0565-array-nesting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shiri29/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shiri29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Shiri29/Leetcode/tree/master/0724-find-pivot-index) |
@@ -169,6 +170,7 @@
 | [0415-add-strings](https://github.com/Shiri29/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shiri29/Leetcode/tree/master/0441-arranging-coins) |
 | [0556-next-greater-element-iii](https://github.com/Shiri29/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shiri29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Shiri29/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shiri29/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -316,6 +318,7 @@
 | [0506-relative-ranks](https://github.com/Shiri29/Leetcode/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shiri29/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shiri29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Shiri29/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/Shiri29/Leetcode/tree/master/1137-height-checker) |
