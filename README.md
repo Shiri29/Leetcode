@@ -53,6 +53,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shiri29/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shiri29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Shiri29/Leetcode/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Shiri29/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shiri29/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shiri29/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -212,6 +214,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shiri29/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shiri29/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Shiri29/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
 | [0696-count-binary-substrings](https://github.com/Shiri29/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -579,6 +582,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shiri29/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/Shiri29/Leetcode/tree/master/0472-concatenated-words) |
+| [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
 ## Bucket Sort
 |  |
 | ------- |
