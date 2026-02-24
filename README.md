@@ -398,6 +398,7 @@
 | [0371-sum-of-two-integers](https://github.com/Shiri29/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Shiri29/Leetcode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shiri29/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Shiri29/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
 | [2159-two-out-of-three](https://github.com/Shiri29/Leetcode/tree/master/2159-two-out-of-three) |
 ## Depth-First Search
