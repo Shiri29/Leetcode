@@ -60,6 +60,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shiri29/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Shiri29/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
+| [0745-prefix-and-suffix-search](https://github.com/Shiri29/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shiri29/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Shiri29/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Shiri29/Leetcode/tree/master/0792-binary-search) |
@@ -97,6 +98,7 @@
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
+| [0745-prefix-and-suffix-search](https://github.com/Shiri29/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shiri29/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -223,6 +225,7 @@
 | [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Shiri29/Leetcode/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Shiri29/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0745-prefix-and-suffix-search](https://github.com/Shiri29/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Shiri29/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/Shiri29/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -599,6 +602,7 @@
 | [0386-lexicographical-numbers](https://github.com/Shiri29/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/Shiri29/Leetcode/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
+| [0745-prefix-and-suffix-search](https://github.com/Shiri29/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -636,4 +640,5 @@
 | ------- |
 | [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0707-design-linked-list) |
+| [0745-prefix-and-suffix-search](https://github.com/Shiri29/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 <!---LeetCode Topics End-->
