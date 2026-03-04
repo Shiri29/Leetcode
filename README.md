@@ -135,6 +135,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0707-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -633,4 +634,5 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
