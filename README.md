@@ -56,6 +56,7 @@
 | [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/Shiri29/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiri29/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shiri29/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Shiri29/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shiri29/Leetcode/tree/master/0739-daily-temperatures) |
@@ -95,6 +96,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shiri29/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Shiri29/Leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/Shiri29/Leetcode/tree/master/0648-replace-words) |
+| [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
 | [0782-jewels-and-stones](https://github.com/Shiri29/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shiri29/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Shiri29/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -132,6 +134,7 @@
 | [0206-reverse-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Shiri29/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -511,6 +514,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shiri29/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
 ## Counting
 |  |
 | ------- |
@@ -625,4 +629,8 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Shiri29/Leetcode/tree/master/0310-minimum-height-trees) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Shiri29/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
