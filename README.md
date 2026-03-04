@@ -179,6 +179,7 @@
 | [0556-next-greater-element-iii](https://github.com/Shiri29/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shiri29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shiri29/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Shiri29/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Shiri29/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Shiri29/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shiri29/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
